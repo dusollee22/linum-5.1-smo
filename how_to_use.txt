@@ -1,0 +1,1 @@
+ex: MBOX_URL="https://lore.kernel.org/lkml/20190603042637.2018-15-tobin@kernel.org/t.mbox.gz" ./apply_smo_patch.sh
